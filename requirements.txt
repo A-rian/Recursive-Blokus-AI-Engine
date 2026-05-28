@@ -1,1 +1,6 @@
-
+hypothesis
+pytest
+python-ta
+plotly
+pygame
+pillow
